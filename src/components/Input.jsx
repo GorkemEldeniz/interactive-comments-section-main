@@ -38,7 +38,7 @@ function Input() {
 
   return (
     <form onSubmit={handleSubmit} className={active ? "msg passive" : "msg"}>
-      <img src={image.png} alt="Avatar" />
+      <img src={`../images/${image.png}`} alt="Avatar" />
       <textarea
         type="text"
         placeholder="Add a comment..."

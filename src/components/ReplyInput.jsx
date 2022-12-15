@@ -61,7 +61,7 @@ function ReplyInput({ id, name, setReplyToggle, from }) {
 
   return (
     <form className="reply-form" onSubmit={handleSubmit}>
-      <img src={image.png} alt="Avatar" />
+      <img src={`../images/${image.png}`} alt="Avatar" />
       <textarea
         name=""
         id=""

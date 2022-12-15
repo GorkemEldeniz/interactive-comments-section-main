@@ -133,7 +133,7 @@ function Message({
 
         <article>
           <header>
-            <img className="avatar" src={image.webp} alt="Avatar" />
+            <img className="avatar" src={`../images/${image.png}`} alt="Avatar" />
             <h2 className="name">{username}</h2>
             {isUser && <h2 className="you">you</h2>}
             <h2 className="time">{createdAt}</h2>
