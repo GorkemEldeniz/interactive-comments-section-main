@@ -1,8 +1,8 @@
 {
   "currentUser": {
     "image": { 
-      "png": "./images/image-juliusomo.png",
-      "webp": "./images/image-juliusomo.webp"
+      "png": "../images/image-juliusomo.png",
+      "webp": "../images/image-juliusomo.webp"
     },
     "username": "juliusomo"
   },
@@ -14,8 +14,8 @@
       "score": 12,
       "user": {
         "image": { 
-          "png": "./images/image-amyrobson.png",
-          "webp": "./images/image-amyrobson.webp"
+          "png": "../images/image-amyrobson.png",
+          "webp": "../images/image-amyrobson.webp"
         },
         "username": "amyrobson"
       },
@@ -28,8 +28,8 @@
       "score": 5,
       "user": {
         "image": { 
-          "png": "./images/image-maxblagun.png",
-          "webp": "./images/image-maxblagun.webp"
+          "png": "../images/image-maxblagun.png",
+          "webp": "../images/image-maxblagun.webp"
         },
         "username": "maxblagun"
       },
@@ -43,8 +43,8 @@
           "from" : 2,
           "user": {
             "image": { 
-              "png": "./images/image-ramsesmiron.png",
-              "webp": "./images/image-ramsesmiron.webp"
+              "png": "../images/image-ramsesmiron.png",
+              "webp": "../images/image-ramsesmiron.webp"
             },
             "username": "ramsesmiron"
           }
@@ -58,8 +58,8 @@
           "from" : 2,
           "user": {
             "image": { 
-              "png": "./images/image-juliusomo.png",
-              "webp": "./images/image-juliusomo.webp"
+              "png": "../images/image-juliusomo.png",
+              "webp": "../images/image-juliusomo.webp"
             },
             "username": "juliusomo"
           }
